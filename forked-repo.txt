@@ -1,0 +1,3 @@
+"full_name": "saifmd/mcino-Introduction-to-Git-and-GitHub",
+"fork": true,
+"clone_url": "https://github.com/saifmd/mcino-Introduction-to-Git-and-GitHub.git"
