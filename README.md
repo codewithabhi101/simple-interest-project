@@ -1,2 +1,9 @@
-# Simple Interest Calculator
-This project calculates simple interest using bash script.
+# Simple Interest Project
+
+This project contains a Bash script to calculate simple interest based on user input.
+
+## Features
+- Input principal amount
+- Input rate of interest
+- Input time period
+- Calculates simple interest
