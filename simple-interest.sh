@@ -3,12 +3,12 @@
 echo "Enter Principal:"
 read p
 
-echo "Enter Rate of Interest:"
+echo "Enter Rate:"
 read r
 
-echo "Enter Time (years):"
+echo "Enter Time:"
 read t
 
 si=$((p * r * t / 100))
 
-echo "Simple Interest is: $si"
+echo "Simple Interest: $si"
