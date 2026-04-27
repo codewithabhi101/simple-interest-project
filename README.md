@@ -12,3 +12,4 @@ And calculates simple interest.
 
 ## Formula
 Simple Interest = (P * R * T) / 100
+Final fix
